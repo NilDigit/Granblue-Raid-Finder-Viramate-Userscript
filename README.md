@@ -14,4 +14,4 @@ Connect viramate and granblue raid finder together (Tampermonkey)
  6. Done!
 
 You can use script by this two site
-[gbf-raidfinder.aikats.us]([http://gbf-raidfinder.aikats.us/](http://gbf-raidfinder.aikats.us/)), [gbf-raidfinder.la-foret.me](https://gbf-raidfinder.la-foret.me/)
+[gbf-raidfinder.aikats.us](bf-raidfinder.aikats.us), [gbf-raidfinder.la-foret.me](https://gbf-raidfinder.la-foret.me/)
