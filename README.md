@@ -33,7 +33,7 @@ Connect viramate and granblue raid finder together (Tampermonkey)
 
 You can use script by this two site
 
-[gbf-raidfinder.aikats.us](bf-raidfinder.aikats.us), [gbf-raidfinder.la-foret.me](https://gbf-raidfinder.la-foret.me/)
+[gbf-raidfinder.aikats.us](https://bf-raidfinder.aikats.us), [gbf-raidfinder.la-foret.me](https://gbf-raidfinder.la-foret.me/)
 
 **This tool made for learn about how to communicate with chrome extension with userscript. 
 Developer will not take any responsibility. From usage results**
