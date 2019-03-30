@@ -35,5 +35,5 @@ You can use script by this two site
 
 [gbf-raidfinder.aikats.us](bf-raidfinder.aikats.us), [gbf-raidfinder.la-foret.me](https://gbf-raidfinder.la-foret.me/)
 
-**This tool made for learn about how to communicate between two chrome extension. 
+**This tool made for learn about how to communicate with chrome extension with userscript. 
 Developer will not take any responsibility. From usage results**
