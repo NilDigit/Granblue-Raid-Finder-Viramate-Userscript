@@ -6,6 +6,7 @@
 // @author       NilDigit
 // @include      http://gbf-raidfinder.aikats.us/
 // @include      https://gbf-raidfinder.la-foret.me/
+// @updateURL    https://raw.githubusercontent.com/NilDigit/Granblue-Raid-Finder-Viramate-Userscript/master/granblue-raid-finder-viramate-userscript.js
 // ==/UserScript==
 
 (function () {
